@@ -1,0 +1,16 @@
+.divisaolado{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 400px;
+  padding-right:400px;
+}
+.fundo{
+  background-color: aliceblue;
+}
+
+.linhareta{
+  display: flex;
+  
+  justify-content:center ;
+}
